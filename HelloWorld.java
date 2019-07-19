@@ -1,7 +1,7 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello, thisisWorldbranch1 automated build");
+        System.out.println("Hello, thisisWorldbranch1 automated");
     }
 
 }
